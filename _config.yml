@@ -1,0 +1,28 @@
+name: Reinis Inkēns Photography
+favicon: null
+layout_spectrum: 0.1997688787523657
+typography_spectrum: 0.9387310040183365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18922482850030065
+  lightness: 0.9713673961814493
+  saturation: 0.6593856068793684
+  rhythmicContrast: 0.8535133735276759
+purpose: []
