@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-13T13:23:47.255Z'
-dateModified: '2016-03-13T13:23:23.949Z'
+datePublished: '2016-03-13T14:08:14.036Z'
+dateModified: '2016-03-13T14:06:53.233Z'
 title: Melnbaltā filma
 author: []
 sourcePath: _posts/2016-03-12-melnbalta-filma.md
