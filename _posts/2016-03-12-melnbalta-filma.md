@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-12T16:42:57.379Z'
-dateModified: '2016-03-12T16:40:20.592Z'
+datePublished: '2016-03-13T11:52:37.731Z'
+dateModified: '2016-03-13T11:52:37.094Z'
 title: Melnbaltā filma
 author: []
+sourcePath: _posts/2016-03-12-melnbalta-filma.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-melnbalta-filma.md
-published: true
 url: melnbalta-filma/index.html
 _type: Article
 
@@ -25,13 +25,10 @@ _type: Article
 # Melnbaltā filma
 
 ## Mirkļu foto uz filmiņas
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dfe9ea8-cbb1-4d16-841f-1d2ccc835543.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/531d058a-a9e9-437d-a9f5-ac0e521b685c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b24820ef-f7d7-4f6f-8189-7ff37ee11f40.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d473c3c12e89399e354f661426d3a73d67937ab.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/80fb9d777f60ae23ca8c01f7284b10aa274f038a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc41c204-d565-44d9-b97b-85286663c3f2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f2f209f-b392-46cd-b38f-eb73e0d39998.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2ebc4c9-6f7a-485f-bf29-3b24eeea6a8d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13495fa3-b935-4fee-9792-e565f466f308.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e0351f3-95be-48a9-86ff-bdf2c2f4a7b9.jpg)
-
-#
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f03e5723a933b9368a6bf44543772a5855d44889.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7cfe9c737a032641527320e565e29c805ef4a86.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d899fbdda0e1d32520ccdc040a07bda65e50225.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b938ca1648429a9ef215fb08a8db2a909a2f266.jpg)
