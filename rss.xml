@@ -4,8 +4,15 @@
         <description><![CDATA[Reinis Inkēns Photography]]></description>
         <link>https://thegrid.ai/reinis-inkens-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 12:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 18:00:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reinis-inkens-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Kūsiņš" dāmu kolekcija]]></title>
+            <description><![CDATA[<article><h1>"Kūsiņš" dāmu kolekcija</h1><h2>Kristīne</h2><p>2015.gada vasarā radošās brīvģērbu meistardarbnīcas "Kūsiņš" meitenes mani pieaicināja jaunās sieviešu kolekcijas fotogrāfēšanai un video kampaņas veidošanai. Lūk, foto rezultāts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72aca4757133e71530edd26b040633b4dae05968.jpg"></article>]]></description>
+            <link>https://thegrid.ai/reinis-inkens-photography/kusins/index.html</link>
+            <guid isPermaLink="false">2a6f7a4a-f193-4186-be6d-825253a4f819</guid>
+            <pubDate>Mon, 14 Mar 2016 17:59:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Kūsiņš" vīriešu līnija]]></title>
             <description><![CDATA[<article><h1>"Kūsiņš" vīriešu līnija</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4928d873a5e059fb501e4ba7b98392c10b6fa93d.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/reinis-inkens-photography/8f8a6ad6-fce4-48d2-bd64-68979224c2e7/index.html</link>
             <guid isPermaLink="false">8f8a6ad6-fce4-48d2-bd64-68979224c2e7</guid>
             <pubDate>Sun, 13 Mar 2016 14:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kūsiņš]]></title>
-            <description><![CDATA[<article><h1>Kūsiņš</h1><h2>Kristīne</h2><p>2015.gada vasarā radošās brīvģērbu meistardarbnīcas "Kūsiņš" meitenes mani pieaicināja jaunās sieviešu kolekcijas fotogrāfēšanai un video kampaņas veidošanai. Lūk, foto rezultāts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72aca4757133e71530edd26b040633b4dae05968.jpg"></article>]]></description>
-            <link>https://thegrid.ai/reinis-inkens-photography/kusins/index.html</link>
-            <guid isPermaLink="false">2a6f7a4a-f193-4186-be6d-825253a4f819</guid>
-            <pubDate>Mon, 14 Mar 2016 12:04:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
