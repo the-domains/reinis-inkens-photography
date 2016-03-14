@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T11:47:20.197Z'
-dateModified: '2016-03-14T11:47:13.009Z'
-title: Kūsiņš vīriešu līnija
+datePublished: '2016-03-14T12:57:05.553Z'
+dateModified: '2016-03-14T12:49:51.670Z'
+title: '"Kūsiņš" vīriešu līnija'
 author: []
 sourcePath: _posts/2016-03-14-kusins-viriesu-linija.md
 published: true
@@ -22,16 +22,18 @@ url: kusins-viriesu-linija/index.html
 _type: Article
 
 ---
-# Kūsiņš vīriešu līnija
+# "Kūsiņš" vīriešu līnija
+
+Fotosesija no "Kūsiņa" vīriešu brīvģērbu kolekcijas.
 
 ## Dāvis
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84a61651-943a-46d9-aa1c-bb28ac2200c5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8154f064-3af4-4f7e-a119-51742eefe71a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/970a742a-420f-49a0-9607-750e4b3ce0df.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92f52fed246409777103667d6def5b7b0d6d8c65.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4a112fb1c66a60787c45cafc22b26eae22cf160.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d32dccdc2e6cada96d803a910882a0391c0d456.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cb1af9-3afd-4cef-bbfc-156f2a5ae769.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a483ce8a-4091-457f-8a58-3fbc20569f17.jpg)
 
-## Jāzeps
+## Aleksandrs
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea376f90-7f6d-41dc-9691-00e2b82a4198.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de00ada9-700d-4ca5-92d9-93d96e182a5d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf98a86-153b-42ae-8888-7485d4954d42.jpg)
