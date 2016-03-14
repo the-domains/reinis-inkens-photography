@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-14T09:05:23.101Z'
-dateModified: '2016-03-14T09:00:02.779Z'
+datePublished: '2016-03-14T11:47:20.197Z'
+dateModified: '2016-03-14T11:47:13.009Z'
 title: Kūsiņš vīriešu līnija
 author: []
 sourcePath: _posts/2016-03-14-kusins-viriesu-linija.md
