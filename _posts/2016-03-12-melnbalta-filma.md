@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T14:08:14.036Z'
-dateModified: '2016-03-13T14:06:53.233Z'
+datePublished: '2016-03-14T11:51:14.132Z'
+dateModified: '2016-03-14T11:49:13.410Z'
 title: Melnbaltā filma
 author: []
 sourcePath: _posts/2016-03-12-melnbalta-filma.md
