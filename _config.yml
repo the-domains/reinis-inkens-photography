@@ -1,20 +1,4 @@
-name: Reinis Inkēns Photography
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.25568
-title: Reinis Inkēns Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74993143-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#7c74c3'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6875
   saturation: 0.875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: UA-74993143-1
+  facebook: null
+  twitter: null
+name: Reinis Inkēns Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Par mani
+    id: 61f19d6f-b517-4cc5-a68e-5c896002aea6
+    type: content
+favicon: null
+title: Reinis Inkēns Photography
 purpose: []
