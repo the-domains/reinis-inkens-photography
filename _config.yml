@@ -28,6 +28,9 @@ navigation:
   - name: Par mani
     id: 61f19d6f-b517-4cc5-a68e-5c896002aea6
     type: content
+  - name: Mani video darbi
+    url: dicethrowfilms.eu
+    type: external
 favicon: null
 title: Reinis Inkēns Photography
 purpose: []
