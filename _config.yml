@@ -19,6 +19,9 @@ analytics:
   google: UA-74993143-1
   facebook: null
   twitter: null
+author:
+  name: Reinis
+  email: reinis.inkens@gmail.com
 name: Reinis Inkēns Photography
 cta:
   domain: null
@@ -32,5 +35,5 @@ navigation:
     url: dicethrowfilms.eu
     type: external
 favicon: null
-title: Reinis Inkēns Photography
+title: Latvijas Parlamenta fotogrāfs
 purpose: []
